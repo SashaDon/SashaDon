@@ -15,6 +15,9 @@
 - Play videogames
 - Chill
 
+<div align ="center">
+  <img width="800" height="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F7kn27lnYSAE9O%2Fgiphy.gif&f=1&nofb=1">
+</div>
 <!--
 **SashaDon/SashaDon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
